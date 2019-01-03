@@ -51,5 +51,6 @@ def main():
     for b in finalList:
         fileBuilder(b)
 
+if __name__ == "__main__":
+    main()
 
-main()

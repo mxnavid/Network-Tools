@@ -46,5 +46,5 @@ def main():
       finalIp.append(long2ip(l))
 
     
-
-main()
+if __name__ == "__main__":
+    main()
